@@ -2,7 +2,7 @@
 
 Some Mac OS X folder services I use:
 
-- **Init Project**: service requires the init in bash (found in my [dotfiles](https://github.com/duivvv/dotfiles/blob/master/.aliases#L93-111))
+- **Init Project**: runs a couple of commands in series, requires the [init](https://github.com/duivvv/dotfiles/blob/master/.aliases#L93-111) bash function
 	- bower install
 	- npm install
 	- gulp
