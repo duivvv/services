@@ -2,7 +2,7 @@
 
 Some Mac OS X folder services I use:
 
-- **Init Project**: Open and Run project 
+- **Open & Run**: Open and Run project 
 
   - open with sublime + npm run development OR
   - open with sublime + sass watch + python serve
